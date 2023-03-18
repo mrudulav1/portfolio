@@ -1,0 +1,36 @@
+h1{
+    color: aqua;
+    text-align: center;
+}
+.section{
+   width: 400px;
+   height: 200px;
+   border-width: 2px;
+   border-color: black;
+   border-style: solid;
+}
+.row1{
+    background-color: aquamarine;
+}
+.row2{
+    background-color: blueviolet;
+}
+.row3{
+    background-color: chocolate;
+}
+div{
+    color: white;
+}
+.container{
+    width: 500px;
+    height: 200px;
+}
+.row4{
+    background-color: aquamarine;
+}
+.row5{
+    background-color: wheat
+}
+img{
+    width: 100;
+}

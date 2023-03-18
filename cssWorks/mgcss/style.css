@@ -1,0 +1,20 @@
+.row{
+    height: 200px;
+    border: 1px solid black;
+
+}
+.row-1{
+    width: 80%;
+    margin: auto;
+/* background-color: aqua; */
+
+}
+.row-2,.row-2{
+    width: 30%;
+}
+.row-2{
+    background-color: aquamarine;
+}
+.row-3{
+    background-color: blueviolet;
+}

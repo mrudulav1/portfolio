@@ -1,0 +1,18 @@
+.container {
+    width: 80%;
+    border: 1px solid black;
+    background-color: blueviolet;
+    color: white;
+    margin: auto;
+    height: 300px;
+    padding: 20px;
+}
+
+/* screen xxl */
+@media screen and (max-width: 750px) {
+    .container {
+        background-color: black;
+        color: yellow;
+    }
+
+}

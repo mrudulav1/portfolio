@@ -1,0 +1,28 @@
+/* select element {
+    propert:value;
+    property2:value2;
+    */
+/* basic selectors */
+/* 1.tag selector
+       2.id
+        3.class 
+    */
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#id_first {
+    color: yellow;
+    text-align: left;
+    text-decoration: none;
+}
+
+.brands {
+    color: aqua;
+}
